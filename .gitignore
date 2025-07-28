@@ -1,0 +1,8 @@
+CMakeFiles/
+*.bin
+*.so
+LoggerApp
+build/
+*.o
+*.a
+
