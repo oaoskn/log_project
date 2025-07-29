@@ -66,4 +66,4 @@
   -  socket_log_output.cpp: реализация записи через сокет
   -  main.cpp: консольное приложение
 - CMakeLists.txt: конфигурация сборки CMake
-  
+- .gitignore: исключает сгенерированные файлы (например, CMakeFiles/, LoggerApp, *.so)
